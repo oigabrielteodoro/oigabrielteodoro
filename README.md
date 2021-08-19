@@ -8,4 +8,7 @@ Product Developer at @brainnco.
 
 I started programming at the age of 13 and since then my passion for technology has only increased.
 
-Today I use JavaScript/TypeScript and the entire ecosystem around this technology. My current focus is on Frontend, but I have Backend and Mobile skills
+Today I use JavaScript/TypeScript and the entire ecosystem around this technology. My current focus is on Frontend, but I have Backend and Mobile skills.
+
+
+My favorite quote is: "The greatest talent anyone can have is dedication and persistence"
