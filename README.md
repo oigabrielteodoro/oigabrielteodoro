@@ -12,4 +12,4 @@ I started programming at the age of 13 and since then my passion for technology 
 Today I use JavaScript/TypeScript and the entire ecosystem around this technology. My current focus is on Frontend, but I have Backend and Mobile skills.
 
 
-My favorite quote is: "The greatest talent anyone can have is dedication and persistence"
+> My favorite quote is: "The greatest talent anyone can have is dedication and persistence"
