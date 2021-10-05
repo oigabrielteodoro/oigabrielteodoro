@@ -1,6 +1,6 @@
 # Gabriel Teodoro
 
-Product Developer at @brainnco.
+Frontend Developer at @brainnco.
 
 [![Site Badge](https://img.shields.io/badge/-gabrielteodoro.com-FF3366?style=flat-square&logo=react&logoColor=white&labelColor=FF3366&link=https://gabrielteodoro.com)](https://gabrielteodoro.com) 
 [![Instagram Badge](https://img.shields.io/badge/-@oigabrielteodoro-FF3366?style=flat-square&labelColor=FF3366&logo=instagram&logoColor=white&link=https://instagram.com/oigabrielteodoro)](https://instagram.com/oigabrielteodoro) 
