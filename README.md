@@ -13,3 +13,5 @@ Today I use JavaScript/TypeScript and the entire ecosystem around this technolog
 
 
 > My favorite quote is: "The greatest talent anyone can have is dedication and persistence"
+
+![Snake animation](https://github.com/oigabrielteodoro/oigabrielteodoro/blob/output/github-contribution-grid-snake.svg) 
